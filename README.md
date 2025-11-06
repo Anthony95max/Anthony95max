@@ -1,4 +1,4 @@
-## Hi there 👋
+[Check out my first Wordpress project!](https://www.crownhotel.page.gd)
 
 <!--
 **Anthony95max/Anthony95max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
